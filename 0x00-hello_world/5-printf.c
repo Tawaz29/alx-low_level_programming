@@ -1,4 +1,4 @@
-#incude < stdio.h >
+#include <stdio.h>
 /**
  * main - A program that prints line using printf function
  * Return: 0 (success)
